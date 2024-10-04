@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nok</h1>
 <h3 align="center">A Student studying AI and Mobile Applications Development from Hong Kong</h3>
 
-- 🔭 I’m currently working on **Smart Device**
+- 🔭 I’m currently working on **Design and implement a home energy-saving mobile app that helps users intelligently monitor and control their home devices to reduce energy consumption**
 
 - 🌱 I’m currently learning **AI and Mobile Applications Development**
 
